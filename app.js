@@ -1,4 +1,3 @@
-// Código feito na mentoria amigo secreto
 let amigos = [];
 
 function adicionarAmigo() {
